@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shayne&#39;s Blog</title>
-    <link>shayneofficer.github.io/</link>
+    <link>/</link>
     <description>Recent content on Shayne&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2023 13:22:55 -0400</lastBuildDate><atom:link href="shayneofficer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 13:22:55 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guid Enumeration</title>
-      <link>shayneofficer.github.io/posts/2023-09-10-guid-enumeration/</link>
+      <link>/posts/2023-09-10-guid-enumeration/</link>
       <pubDate>Sun, 10 Sep 2023 13:22:55 -0400</pubDate>
       
-      <guid>shayneofficer.github.io/posts/2023-09-10-guid-enumeration/</guid>
+      <guid>/posts/2023-09-10-guid-enumeration/</guid>
       <description>Motivation I&amp;rsquo;ve always really liked the idea behind websites like wtfjs, gathering together a collection of funny, counterintuitive features of a language to poke some good-natured fun at it. The sentiment is expressed well in its about page:
 JavaScript is a language we love despite it giving us so much to hate.
 Although I write rarely write JavaScript anymore for my day job, this still mirrors my fondness for the language in the face of (or sometimes due to) all its funny quirks.</description>
